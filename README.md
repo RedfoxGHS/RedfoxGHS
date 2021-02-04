@@ -5,11 +5,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.urionlinejudge.com.br/judge/pt/users/statistics/228231"  target="_blank" >
-  <img src="https://i.pinimg.com/originals/2c/66/de/2c66decfe536a1b4dd0f5eccba92cb85.png"/>
+  <img src="https://i.pinimg.com/originals/2c/66/de/2c66decfe536a1b4dd0f5eccba92cb85.png" height="40px"/>
 </a>
  </br>
-<!-- https://i.pinimg.com/originals/2c/66/de/2c66decfe536a1b4dd0f5eccba92cb85.png -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Redfox0012&show_icons=true&theme=radical)
+
 
 
   
