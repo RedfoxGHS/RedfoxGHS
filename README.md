@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Gabriel!
-- Estudante de Engenhari de Software, faço parte da equipe de programação do INATEL, ministro monitorias de Algoritmos e estruturas de dados I e III, em 2020 realizei uma IC de visão computacional utilizando Python3 e OpenCv e API's da AWS, tenho conhecimentos tambem em HTML, CSS, C++ e Java.
+- Estudante de Engenharia de Software, participei da equipe de programação do INATEL, ministrei monitorias de Algoritmos e estruturas de dados I e III, em 2020 realizei uma IC de visão computacional utilizando Python3 e OpenCv e API's da AWS, tenho conhecimentos tambem em HTML, CSS, C++ e PHP.
 
  <a href="https://www.linkedin.com/in/gabriel-henrique-da-silva-48aa4a167/"  target="_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />
