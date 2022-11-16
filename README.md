@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/48630726/202218586-38d87b80-272d-4388-8172-46d040a44ff8.png">
 
-<div style="width: 100%; display: flex; flex-direction: row; justify-content: space-between;">
-<div style="padding-top: 5px">
+
+<p style="padding-top: 5px">
 <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" height="25px">
  <a href="mailto:gabrielhe@ges.inatel.br">
   <img src="https://img.shields.io/badge/Email-gabrielhe@ges.inatel.br-0c2d6b">
@@ -9,12 +9,9 @@
  <a href="https://www.linkedin.com/in/gabrielhsdev/">
   <img src="https://img.shields.io/badge/LinkedIn-gabrielhsdev-8e1519"/>
  </a>
-</div>
-<div style="">
- <img src="https://media.tenor.com/QorAqICAEoEAAAAj/eye-eyes.gif" height="25px">
- <img src="https://profile-counter.glitch.me/RedfoxGHS/count.svg">
-</div>
-</div>
+ <img align="right" src="https://profile-counter.glitch.me/RedfoxGHS/count.svg">
+ <img align="right" src="https://media.tenor.com/QorAqICAEoEAAAAj/eye-eyes.gif" height="25px">
+</p>
 
 ```Python
  class about_me:
@@ -60,7 +57,7 @@
 <br>
 
 <p align="center">
- <img height="215" src="https://github-readme-stats.vercel.app/api?username=RedfoxGHS&show_icons=true&theme=radical&icon_color=79b8ff&bg_color=000000">ㅤㅤ
+ <img height="165" style="max-width: 420px" src="https://github-readme-stats.vercel.app/api?username=RedfoxGHS&show_icons=true&theme=radical&icon_color=79b8ff&bg_color=000000">ㅤㅤ
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redfoxghs&layout=compact&theme=radical&bg_color=000000&langs_count=10">
 </p>
 
