@@ -6,7 +6,7 @@
  <a href="mailto:gabrielhe@ges.inatel.br">
   <img src="https://img.shields.io/badge/Email-gabrielhe@ges.inatel.br-0c2d6b">
  </a>
- <a href="https://www.linkedin.com/in/gabrielhsdev/">
+ <a href="https://www.linkedin.com/in/gabrielhsdev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-gabrielhsdev-8e1519"/>
  </a>
  <img align="right" src="https://profile-counter.glitch.me/RedfoxGHS/count.svg">
