@@ -7,13 +7,17 @@
 
 [//]: # (</a>)
  </br>
-<div style="display: flex; justify-content: center;">
- <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=RedfoxGHS&show_icons=true&theme=radical"/>
- <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedfoxGHS&layout=compact&theme=radical"/>
+<div style="display: flex; flex-direction: row; background-color: aqua;">
+ <img style="padding-right: 5px; max-width: 50%" src="https://github-readme-stats.vercel.app/api?username=RedfoxGHS&show_icons=true&theme=radical"/>
+ <img style="padding-left: 5px; max-width: 50%; width: auto; height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedfoxGHS&layout=compact&theme=radical"/>
 </div>
 <div style="display: flex; justify-content: center">
-    <img style="margin: 10px" src="https://streak-stats.demolab.com/?user=RedfoxGHS&theme=radical"/>
+    <img style="margin: 10px; width: 50%" src="https://streak-stats.demolab.com/?user=RedfoxGHS&theme=radical"/>
 </div>
+
+## About me
+
+- 🎓 I'm a Software Engineering student at INATEL.
 
 
 <!--
