@@ -1,16 +1,19 @@
-### Olá! Eu sou o Gabriel!
-- Estudante de Engenharia de Software, participei da equipe de programação do INATEL, ministrei monitorias de Algoritmos e estruturas de dados I e III, em 2020 realizei uma IC de visão computacional utilizando Python3 e OpenCv e API's da AWS. Atualmente Estagiando na PagSeguro.
+![Hi I'm Gabriel](https://user-images.githubusercontent.com/48630726/202218586-38d87b80-272d-4388-8172-46d040a44ff8.png)
 
- <a href="https://www.linkedin.com/in/gabriel-henrique-da-silva-48aa4a167/"  target="_blank" >
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />
-</a>
+
+[//]: # ( <a href="https://www.linkedin.com/in/gabriel-henrique-da-silva-48aa4a167/"  target="_blank" >)
+
+[//]: # (  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />)
+
+[//]: # (</a>)
  </br>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RedfoxGHS&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedfoxGHS&layout=compact&theme=radical)](https://github.com/RedfoxGHS/github-readme-stats)
-
-  
+<div style="display: flex; justify-content: center;">
+ <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=RedfoxGHS&show_icons=true&theme=radical"/>
+ <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedfoxGHS&layout=compact&theme=radical"/>
+</div>
+<div style="display: flex; justify-content: center">
+    <img style="margin: 10px" src="https://streak-stats.demolab.com/?user=RedfoxGHS&theme=radical"/>
+</div>
 
 
 <!--
