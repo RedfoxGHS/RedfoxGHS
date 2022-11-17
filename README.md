@@ -9,7 +9,7 @@
  <a href="https://www.linkedin.com/in/gabrielhsdev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-gabrielhsdev-8e1519"/>
  </a>
- <img align="right" src="https://profile-counter.glitch.me/RedfoxGHS/count.svg">
+ <img align="right" src="https://visitcount.itsvg.in/api?id=RedfoxGHS&icon=7&color=12">
  <img align="right" src="https://media.tenor.com/QorAqICAEoEAAAAj/eye-eyes.gif" height="25px">
 </p>
 
