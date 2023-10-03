@@ -28,7 +28,8 @@
 <h2 align="center">Technology Stack <img src="https://user-images.githubusercontent.com/48630726/202259662-066ef2bf-734b-414d-9747-0dba25024276.gif" width="50"></h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat&logo=java"/>
+<img src="https://img.shields.io/badge/-Java-C74634?style=flat&logo=java"/>
+<img src="https://img.shields.io/badge/-Kotlin-E1486A?style=flat&logo=kotlin"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
